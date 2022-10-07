@@ -1,2 +1,5 @@
 # Black-Jack-Game-Repo
- Black Jack
+ The Classic game of Black Jack
+ 
+ https://nasims-black-jack.netlify.app/
+ 
